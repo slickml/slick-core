@@ -1,2 +1,2 @@
-# slick-log
-SlickLog 📝: Slick Logging in Python
+
+# SlickCore 🎯: Slick Core Functionalities in Python
